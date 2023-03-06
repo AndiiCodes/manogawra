@@ -105,7 +105,7 @@ function ContactForm() {
     ></textarea>
         </div>
         <div className="p-2 w-full">
-          <button className="flex mx-auto text-white bg-[#031421] border-0 py-2 px-8 focus:outline-none hover:bg-[#0e283c] rounded text-lg">
+          <button className="flex mx-auto text-white bg-[#214029] border-0 py-2 px-8 focus:outline-none hover:bg-[#0e283c] rounded text-lg">
             Submit ✅
           </button>
           <p className="font-sans mt-[50px] text-center">Lazy to fill a form? Message me directly</p>
